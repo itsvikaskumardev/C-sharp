@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\advance\\collectiontutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|solutionrelative:advance\\collectiontutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|solutionrelative:advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E32743-2D7B-2ECC-6276-ED7BF53ABE36}|Basics\\Basics.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E32743-2D7B-2ECC-6276-ED7BF53ABE36}|Basics\\Basics.csproj|solutionrelative:basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\advance\\genericstutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|solutionrelative:advance\\genericstutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming - 2\\interfaceabstractiondifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|solutionrelative:object oriented programming - 2\\interfaceabstractiondifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming\\abstracttutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|solutionrelative:object oriented programming\\abstracttutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming - 2\\interfacetutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|solutionrelative:object oriented programming - 2\\interfacetutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming - 2\\accessmodifiertutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|solutionrelative:object oriented programming - 2\\accessmodifiertutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|solutionrelative:object oriented programming - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|solutionrelative:object oriented programming\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\object oriented programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|solutionrelative:object oriented programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Advance\\CollectionTutorial.cs",
+              "RelativeDocumentMoniker": "Advance\\CollectionTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Advance\\CollectionTutorial.cs",
+              "RelativeToolTip": "Advance\\CollectionTutorial.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T12:57:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Basics\\Program.cs",
+              "RelativeToolTip": "Basics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T12:52:34.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericsTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Advance\\GenericsTutorial.cs",
+              "RelativeDocumentMoniker": "Advance\\GenericsTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Advance\\GenericsTutorial.cs",
+              "RelativeToolTip": "Advance\\GenericsTutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T12:52:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Advance\\Program.cs",
+              "RelativeDocumentMoniker": "Advance\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Advance\\Program.cs",
+              "RelativeToolTip": "Advance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T12:49:48.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceAbstractionDifference.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\InterfaceAbstractionDifference.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming - 2\\InterfaceAbstractionDifference.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\InterfaceAbstractionDifference.cs",
+              "RelativeToolTip": "Object Oriented Programming - 2\\InterfaceAbstractionDifference.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T08:09:09.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessModifierTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\AccessModifierTutorial.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming - 2\\AccessModifierTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\AccessModifierTutorial.cs",
+              "RelativeToolTip": "Object Oriented Programming - 2\\AccessModifierTutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:54:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\Program.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming - 2\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\Program.cs",
+              "RelativeToolTip": "Object Oriented Programming - 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T17:07:25.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterfaceTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "RelativeToolTip": "Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T17:00:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OperatorOverloading.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming\\OperatorOverloading.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming\\OperatorOverloading.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming\\OperatorOverloading.cs",
+              "RelativeToolTip": "Object Oriented Programming\\OperatorOverloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T07:00:06.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming\\AbstractTutorial.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming\\AbstractTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming\\AbstractTutorial.cs",
+              "RelativeToolTip": "Object Oriented Programming\\AbstractTutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:59:49.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming\\Program.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Object Oriented Programming\\Program.cs",
+              "RelativeToolTip": "Object Oriented Programming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T05:09:54.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

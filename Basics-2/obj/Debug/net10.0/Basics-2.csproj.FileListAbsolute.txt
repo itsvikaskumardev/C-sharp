@@ -1,0 +1,14 @@
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\bin\Debug\net10.0\Basics-2.exe
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\bin\Debug\net10.0\Basics-2.deps.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\bin\Debug\net10.0\Basics-2.runtimeconfig.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\bin\Debug\net10.0\Basics-2.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\bin\Debug\net10.0\Basics-2.pdb
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.AssemblyInfoInputs.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.AssemblyInfo.cs
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.csproj.CoreCompileInputs.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\refint\Basics-2.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.pdb
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\Basics-2.genruntimeconfig.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Basics-2\obj\Debug\net10.0\ref\Basics-2.dll
