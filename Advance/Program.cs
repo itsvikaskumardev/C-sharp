@@ -6,4 +6,12 @@
 
 using Advance;
 
-GenericsTutorial.Run();
+//DelegatesTutorial.Run();
+//AnonymousFunctionTutorial.Run();
+
+//EventTutorial.Run();
+//EventDelegateTutorial.Run();
+
+//GenericsTutorial.Run();
+//GenericClassTutorial.Run();
+

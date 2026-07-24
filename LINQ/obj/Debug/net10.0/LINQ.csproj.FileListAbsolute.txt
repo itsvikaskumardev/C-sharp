@@ -1,0 +1,15 @@
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\bin\Debug\net10.0\LINQ.exe
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\bin\Debug\net10.0\LINQ.deps.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\bin\Debug\net10.0\LINQ.runtimeconfig.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\bin\Debug\net10.0\LINQ.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\bin\Debug\net10.0\LINQ.pdb
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfo.cs
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.sourcelink.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\refint\LINQ.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.pdb
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\LINQ.genruntimeconfig.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\LINQ\obj\Debug\net10.0\ref\LINQ.dll

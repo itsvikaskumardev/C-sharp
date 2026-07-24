@@ -1,0 +1,15 @@
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\bin\Debug\net10.0\Advance.exe
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\bin\Debug\net10.0\Advance.deps.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\bin\Debug\net10.0\Advance.runtimeconfig.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\bin\Debug\net10.0\Advance.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\bin\Debug\net10.0\Advance.pdb
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.AssemblyInfoInputs.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.AssemblyInfo.cs
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.csproj.CoreCompileInputs.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.sourcelink.json
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\refint\Advance.dll
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.pdb
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\Advance.genruntimeconfig.cache
+C:\Users\VikasKumar\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\Vikas\C#\Advance\obj\Debug\net10.0\ref\Advance.dll
