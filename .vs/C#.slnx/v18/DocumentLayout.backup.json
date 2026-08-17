@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\",
+  "WorkspaceRootPath": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9381483-F717-466B-AF0B-6109BE9F7CD6}|Basics-2\\Basics-2.csproj|c:\\users\\vikaskumar\\onedrive - organicut fresh private limited\\vikas\\c#\\basics-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9381483-F717-466B-AF0B-6109BE9F7CD6}|Basics-2\\Basics-2.csproj|solutionrelative:basics-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Basics-2\\Program.cs",
-              "RelativeDocumentMoniker": "Basics-2\\Program.cs",
-              "ToolTip": "C:\\Users\\VikasKumar\\OneDrive - ORGANICUT FRESH PRIVATE LIMITED\\Vikas\\C#\\Basics-2\\Program.cs",
-              "RelativeToolTip": "Basics-2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Debugging Tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\Program.cs",
+              "RelativeToolTip": "Debugging Tutorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T09:01:12.476Z",
+              "WhenOpened": "2026-08-17T06:39:33.549Z",
               "EditorCaption": ""
             }
           ]
