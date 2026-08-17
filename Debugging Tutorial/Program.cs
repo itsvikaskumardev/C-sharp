@@ -1,44 +1,21 @@
-﻿using System;
-
-Console.WriteLine("Hello, World!");
-
-int n, r;
-float res;
-
-Console.WriteLine("Enter the value of n:");
-n = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Enter the value of r:");
-r = Convert.ToInt32(Console.ReadLine());
-
-res = nCr(n, r);
-
-Console.WriteLine("Result is: " + res);
+﻿using Debugging_Tutorial;
+using System;
 
 
-static float nCr(int n, int r)
-{
-    int x = fact(n);
-    int y = fact(n - r);
-    int z = fact(r);
+//PermutationCombination.Run();
 
-    return (float)x / (y * z);
-}
+//DataTips.Run();
 
 
-static int fact(int n)
-{
-    int f = 1;
 
-    for (int i = 2; i <= n; i++)
-    {
-        f = f * i;
-    }
 
-    return f;
-}
+
+
+
+
 
 /*
+ * -----------------------------------
  Yes 👍 Let’s learn **Visual Studio debugging shortcuts** step by step.
 
 ### 🔴 F9 — Breakpoint

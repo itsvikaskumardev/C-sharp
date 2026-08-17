@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\datatips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\datatips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\permutationcombination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\permutationcombination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataTips.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\DataTips.cs",
+              "RelativeDocumentMoniker": "Debugging Tutorial\\DataTips.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\DataTips.cs",
+              "RelativeToolTip": "Debugging Tutorial\\DataTips.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvykAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T12:42:46.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermutationCombination.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\PermutationCombination.cs",
+              "RelativeDocumentMoniker": "Debugging Tutorial\\PermutationCombination.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\PermutationCombination.cs",
+              "RelativeToolTip": "Debugging Tutorial\\PermutationCombination.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:53:10.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Debugging Tutorial\\Program.cs",
               "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\Program.cs",
               "RelativeToolTip": "Debugging Tutorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T06:39:33.549Z",
               "EditorCaption": ""
