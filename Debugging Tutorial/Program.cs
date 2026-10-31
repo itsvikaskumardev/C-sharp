@@ -1,4 +1,4 @@
-﻿using Debugging_Tutorial;
+using Debugging_Tutorial;
 using System;
 
 
@@ -6,6 +6,9 @@ using System;
 
 //DataTips.Run();
 
+//WatchWindow.Run();
+
+DebuggingPractice.Run();
 
 
 
@@ -15,113 +18,117 @@ using System;
 
 
 /*
- * -----------------------------------
- Yes 👍 Let’s learn **Visual Studio debugging shortcuts** step by step.
+ Yes 👍 Let’s learn **Visual Studio debugging shortcuts step by step.
 
 ### 🔴 F9 — Breakpoint
 
+-----------------------------------------------------------------------------------------------
 
+### 🟢 F10 — Step Over : 
 
-Example:
-
-```csharp
-var student = await db.Students.FindAsync(id); // F9 here
-var name = student.Name;
-return Ok(name);
-```
-
----
-
-### 🟢 F10 — Step Over
-
-**F10 = execute the current line and move to the next line.**
+**F10 = execute the current line and move to the next line ie. Do this line, don't go inside.
 
 Example:
 
-```csharp
 var student = await GetStudent();  // ← currently here
 var name = student.Name;            // ← next
 return Ok(name);
-```
+
 
 Press **F10** → `GetStudent()` executes, but Visual Studio **doesn't enter inside `GetStudent()`**.
 
-Think:
 
-> **F10 = "Do this line, don't go inside."**
+------------------------------------------------------------------------------------------------
 
----
-
-### 🔵 F11 — Step Into
+### 🔵 F11 — Step Into:
 
 **F11 = go inside the function/method being called.**
 
-```csharp
-var student = await GetStudent();
-```
 
-Press **F11** → Visual Studio goes inside:
 
-```csharp
-public async Task<Student> GetStudent()
-{
-    var student = await db.Students.FindAsync(id);
-    return student;
-}
-```
+Think: F11 = "Show me what this function is doing internally."**
 
-Think:
+------------------------------------------------------------------------------------------------
 
-> **F11 = "Show me what this function is doing internally."**
-
----
 
 ### 🟡 Shift + F11 — Step Out
 
 If you are already inside a method:
 
-```csharp
 public async Task<Student> GetStudent()
 {
     var student = await db.Students.FindAsync(id); // 👈 here
     return student;
 }
-```
+
 
 Press **Shift + F11** → finish the current method and return to the line that called it.
 
-Think:
+Think: Shift + F11 = "I'm done looking inside this function; take me back."**
 
-> **Shift + F11 = "I'm done looking inside this function; take me back."**
+------------------------------------------------------------------------------------------------
 
----
 
-### 🧠 Easy way to remember
+### 🟢 Locals
 
-| Shortcut        | Meaning    | Think                        |
-| --------------- | ---------- | ---------------------------- |
-| **F9**          | Breakpoint | 🛑 Stop here                 |
-| **F10**         | Step Over  | ➡️ Next line                 |
-| **F11**         | Step Into  | 🔍 Go inside function        |
-| **Shift + F11** | Step Out   | ⬅️ Get out of function       |
-| **F5**          | Continue   | ▶️ Run until next breakpoint |
+**Definition:**
 
-### Real example
+Locals shows the local variables that are currently available in the current method/scope.
 
-```csharp
-public async Task<IResult> GetStudent(int id)
+So Locals is basically asking:
+
+> **"What local variables exist in this scope?"
+
+Example : 
+
+public void Calculate()
 {
-    var student = await GetStudentFromDb(id);  // F11 → go inside
-    var result = MapStudent(student);           // F10 → execute, don't enter
-    return Results.Ok(result);                  // F10
+    int price = 100;
+    int quantity = 5;
+
+    int total = price * quantity;
+
+    string message = "Calculation complete";
+
+    Console.WriteLine(message);  // 🔴 Breakpoint
 }
-```
 
-So while debugging:
+Now you're stopped here: Console.WriteLine(message); // 🔴
 
-**F9 → F5 → F10/F11 → Shift+F11**
 
-These are the core Visual Studio debugging shortcuts you'll use most often.
+Locals can show **all local variables still in scope**:
+
+Locals
+────────────────────────
+price       100
+quantity      5
+total       500
+message     "Calculation complete"
+
+------------------------------------------------------------------------------------------------
+
+### 🔵 Autos
+
+Autos automatically shows variables that are relevant to the current statement and the statement immediately before it.**
+
+For example, when stopped here:
+
+Console.WriteLine(message); // 🔴
+
+
+Autos focuses on variables related to the **current/nearby statements**:
+
+Autos
+────────────────────────
+message     "Calculation complete"
+
+
+------------------------------------------------------------------------------------------------
+
+
+   
+
+
 
  
  */

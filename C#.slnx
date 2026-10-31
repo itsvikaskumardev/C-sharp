@@ -6,4 +6,5 @@
   <Project Path="LINQ/LINQ.csproj" Id="1ad3d215-a6ec-47aa-adeb-1a083fa8c86c" />
   <Project Path="Object Oriented Programming - 2/Object Oriented Programming - 2.csproj" Id="b2070279-09e0-4b73-9161-8c7a8265bf86" />
   <Project Path="Object Oriented Programming/Object Oriented Programming.csproj" Id="1859b84f-4e67-414b-9e5c-615e6eb9bab4" />
+  <Project Path="SOLID_PRINCIPLES/SOLID_PRINCIPLES.csproj" />
 </Solution>

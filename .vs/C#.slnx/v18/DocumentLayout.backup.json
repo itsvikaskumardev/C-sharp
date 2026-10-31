@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\object oriented programming\\classtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1859B84F-4E67-414B-9E5C-615E6EB9BAB4}|Object Oriented Programming\\Object Oriented Programming.csproj|solutionrelative:object oriented programming\\classtutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FD59BA-A975-483A-92F4-EEBE1B9255E0}|Advance\\Advance.csproj|solutionrelative:advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\object oriented programming - 2\\interfacetutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2070279-09E0-4B73-9161-8C7A8265BF86}|Object Oriented Programming - 2\\Object Oriented Programming - 2.csproj|solutionrelative:object oriented programming - 2\\interfacetutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\datatips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\datatips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\watchwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\watchwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|c:\\users\\vikaskumar1\\onedrive - supplyit\\documents\\vikas\\c-sharp\\debugging tutorial\\permutationcombination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BC8FA-D036-494F-A07F-957C724DF1BB}|Debugging Tutorial\\Debugging Tutorial.csproj|solutionrelative:debugging tutorial\\permutationcombination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\ConsoleApp1\\SRP_Violated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\SRP_Violated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +46,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataTips.cs",
-              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\DataTips.cs",
-              "RelativeDocumentMoniker": "Debugging Tutorial\\DataTips.cs",
-              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\DataTips.cs",
-              "RelativeToolTip": "Debugging Tutorial\\DataTips.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADgvykAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ClassTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Object Oriented Programming\\ClassTutorial.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming\\ClassTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Object Oriented Programming\\ClassTutorial.cs",
+              "RelativeToolTip": "Object Oriented Programming\\ClassTutorial.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T12:42:46.192Z",
+              "WhenOpened": "2026-10-31T07:12:20.705Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SRP_Violated.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\ConsoleApp1\\SRP_Violated.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SRP_Violated.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\ConsoleApp1\\SRP_Violated.cs",
+              "RelativeToolTip": "ConsoleApp1\\SRP_Violated.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvwYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T06:38:40.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T06:36:15.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Advance\\Program.cs",
+              "RelativeDocumentMoniker": "Advance\\Program.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Advance\\Program.cs",
+              "RelativeToolTip": "Advance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T06:35:36.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PermutationCombination.cs",
-              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\PermutationCombination.cs",
-              "RelativeDocumentMoniker": "Debugging Tutorial\\PermutationCombination.cs",
-              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\PermutationCombination.cs",
-              "RelativeToolTip": "Debugging Tutorial\\PermutationCombination.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
+              "Title": "InterfaceTutorial.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "RelativeDocumentMoniker": "Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "RelativeToolTip": "Object Oriented Programming - 2\\InterfaceTutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T11:53:10.111Z",
+              "WhenOpened": "2026-09-16T16:37:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatchWindow.cs",
+              "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\WatchWindow.cs",
+              "RelativeDocumentMoniker": "Debugging Tutorial\\WatchWindow.cs",
+              "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\WatchWindow.cs",
+              "RelativeToolTip": "Debugging Tutorial\\WatchWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T14:27:29.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\Program.cs",
               "RelativeDocumentMoniker": "Debugging Tutorial\\Program.cs",
               "ToolTip": "C:\\Users\\VikasKumar1\\OneDrive - SupplyIT\\Documents\\Vikas\\C-sharp\\Debugging Tutorial\\Program.cs",
               "RelativeToolTip": "Debugging Tutorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T06:39:33.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T06:39:33.549Z"
             }
           ]
         }
