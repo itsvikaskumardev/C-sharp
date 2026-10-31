@@ -1,8 +1,30 @@
 ﻿using SOLID_PRINCIPLES;
 
 
+
+
+
+
+
+
+//SRP_Violated.Run();
+//SRP_Followed.Run();
+
+OCP_Violated.Run();
+
+
+
+
+
+
+
+
+
+
+
+
 /*
- 
+ -----------------------------------------------------------------------------------------------------------------------
  1. Why do we use internal?
 internal is an access modifier in C#.
 
@@ -43,4 +65,3 @@ Remember: internal is commonly used for classes that should be available through
  
  */
 
-SRP_Violated.Run();
