@@ -10,9 +10,11 @@
 //SRP_Violated.Run();
 //SRP_Followed.Run();
 
-OCP_Violated.Run();
+//OCP_Violated.Run();
+//OCP_Followed.Run();
 
-
+//LSP_Violated.Run();
+LSP_Followed.Run();
 
 
 
